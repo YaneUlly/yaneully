@@ -1,6 +1,6 @@
 ### Hello, I'm Yane Ully 👋
 
-I'm a UI Developer based in Lisbon, currently enrolling a Full Stack Web Development bootcamp at Ironhack.
+I'm a UI Developer based in Lisbon, recently graduated from a Full Stack Web Development bootcamp at Ironhack.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
